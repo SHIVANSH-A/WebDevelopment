@@ -1,2 +1,2 @@
-# WebDevlopment - Repo 
-## Contains tasks for learning
+# WebDevelopment - Repo 
+## Contains tasks for learning WebDevelopment
